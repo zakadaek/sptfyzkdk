@@ -3,7 +3,7 @@ CLIENT_SECRET = "85e638030dcb4b559c3d6dad0de5aeac"
 API_ID = 1163646
 API_HASH = "8df2e9d0150d2c8e88f0344d7c70d159"
 INITIAL_TOKEN = "AQCBRKd6aajkV19BOGl9fKeJa8fwbzzzo4BFqdloVZ0qc_X9DD1i9QiV93wFgjeDlyUVP9g3B3acQkzG0iJIMw5ETUDTDV9g5aMPPkclXVoSglFu__olwlxLx56inls3RYEalGKe8-BfFs8wYhlkO0snA5mAq-Hm6JCu1BZV4k52liQw_UEnEGkZlAfdvGwO4qzB3HbuVeB9j-H7SEzmgvYNxGL_fd9mgGUitFVcllyQyBKU5wEZ"
-INITIAL_BIO = "who am i?"
+INITIAL_BIO = ""
 LOG = "me"
 # the escaping is necessary since we are testing against a regex pattern with it.
 SHUTDOWN_COMMAND = "\/\/stop"
