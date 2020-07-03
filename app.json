@@ -19,11 +19,11 @@
     },
     "CLIENT_ID": {
       "description": "spotify client ID",
-      "value": ""
+      "value": "65f25a6ad9764961bc4d56d09668cae5"
     },
     "CLIENT_SECRET": {
       "description": "spotify client scret key",
-      "value": ""
+      "value": "85e638030dcb4b559c3d6dad0de5aeac"
     },
     "SHUTDOWN_COMMAND": {
       "description": "stop command",
