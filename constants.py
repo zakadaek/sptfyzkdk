@@ -2,8 +2,8 @@ CLIENT_ID = ""
 CLIENT_SECRET = ""
 API_ID = 0
 API_HASH = ""
-INITIAL_TOKEN = ""
-INITIAL_BIO = ""
+INITIAL_TOKEN = "AQCBRKd6aajkV19BOGl9fKeJa8fwbzzzo4BFqdloVZ0qc_X9DD1i9QiV93wFgjeDlyUVP9g3B3acQkzG0iJIMw5ETUDTDV9g5aMPPkclXVoSglFu__olwlxLx56inls3RYEalGKe8-BfFs8wYhlkO0snA5mAq-Hm6JCu1BZV4k52liQw_UEnEGkZlAfdvGwO4qzB3HbuVeB9j-H7SEzmgvYNxGL_fd9mgGUitFVcllyQyBKU5wEZ"
+INITIAL_BIO = "-"
 LOG = "me"
 # the escaping is necessary since we are testing against a regex pattern with it.
 SHUTDOWN_COMMAND = "\/\/stop"
